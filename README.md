@@ -1,5 +1,5 @@
-🚀 Madmax - AI Personal Assistant
-<p align="center"> <img src="https://raw.githubusercontent.com/yourusername/Voice_Assistance/main/assets/madmax-banner.png" alt="Madmax Banner"> </p>
+🚀 Madmax - AI Personal Assistant 🚀
+
 Madmax is a voice-controlled AI assistant built using Python. It allows you to perform tasks hands-free, like opening websites, retrieving news, checking the time, searching Google, and even controlling your PC!
 
 ✨ Features
