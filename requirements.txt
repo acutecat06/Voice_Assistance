@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+datetime
+webbrowser
+os
+time
+subprocess
+wolframalpha
+requests
