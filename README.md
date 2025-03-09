@@ -1,4 +1,5 @@
 🚀 Madmax - AI Personal Assistant
+
 Madmax is a voice-controlled AI assistant built using Python. It allows you to perform tasks hands-free, like opening websites, retrieving news, checking the time, searching Google, and even controlling your PC!
 
 ✨ Features
