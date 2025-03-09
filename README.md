@@ -28,7 +28,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/acutecat06/Voice_Assistance/virtual.git
+git clone https://github.com/acutecat06/Voice_Assistance.git
 
 cd virtual
 
