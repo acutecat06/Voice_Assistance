@@ -1,25 +1,60 @@
 # Madmax - AI Personal Assistant  
 
-Madmax is a voice-activated personal assistant that helps automate tasks such as opening applications, retrieving news, playing music, and more—all with voice commands.  
+Madmax is a voice-controlled AI personal assistant built using Python. It can perform tasks such as opening websites, telling the time, retrieving news, and more.  
 
-## Features  
-- Open YouTube, Google, Gmail, and Stack Overflow  
-- Fetch the current time  
-- Take a photo using the webcam  
-- Perform Google searches  
-- Play your favorite songs  
-- Fetch news from the Times of India  
-- Open your resume, LinkedIn, and GitHub  
-- Shutdown the PC via voice command  
+Features
 
-## Installation  
+Opens popular websites (Google, YouTube, Gmail, Stack Overflow, LinkedIn, GitHub)
 
-### Prerequisites  
-Ensure you have Python 3 installed on your system.  
+Retrieves the current time
 
-### Install Required Packages  
+Searches Google for queries
 
-Run the following command to install all necessary dependencies:  
+Reads news from the Times of India
 
-```bash
+Opens your resume and presentations
+
+Can shut down your PC on command
+
+Installation
+
+Prerequisites
+
+Python 3.x
+
+Required libraries (listed in requirements.txt)
+
+Steps
+
+Clone the repository:
+
+git clone https://github.com/acutecat06/Voice_Assistance/virtual.git
+cd virtual
+
+Install dependencies:
+
 pip install -r requirements.txt
+
+Run the assistant:
+
+python virtual.py
+
+Usage
+
+Run the script and speak commands like:
+
+"Open YouTube"
+
+"What's the time?"
+
+"Search Python programming"
+
+"Open my resume"
+
+"Shutdown my PC"
+
+Credits
+
+Developed by Aniket Kumar & Team.
+
+
