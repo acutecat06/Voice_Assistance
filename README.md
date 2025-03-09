@@ -29,6 +29,7 @@ Steps
 Clone the repository:
 
 git clone https://github.com/acutecat06/Voice_Assistance/virtual.git
+
 cd virtual
 
 Install dependencies:
@@ -55,6 +56,6 @@ Run the script and speak commands like:
 
 Credits
 
-Developed by Aniket Kumar & Team.
+Developed by Adyasha.
 
 
